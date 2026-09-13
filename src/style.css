@@ -1,7 +1,3 @@
-body {
-  margin: 0;
-}
-
 .search__input {
   font-family: Avenir, sans-serif;
   font-weight: 300;
@@ -58,6 +54,6 @@ body {
   font-weight: 300;
 }
 
-.search-form {
+.search__form {
   margin-top: 20px;
 }
