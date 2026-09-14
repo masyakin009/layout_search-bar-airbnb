@@ -25,6 +25,8 @@
   height: 42px;
   padding-left: 37px;
   background-position: 13px center;
+  font-size: 14px;
+  background-size: 12px;
 }
 
 @font-face {
